@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UKJsmoyaUEyXXzSG0Jol98wO7jsIBXJ7V60aS9hUOey7CAZES8tdf1gTfJilqj6ZQw0vkjToaM+MYLtKk4I+Jg==",
+  "dgSpecHash": "N8YyHEpjiexIWTdqmcekm/kPVOjOjX8eMrc53ZKbQXamLOj4XeOo9PpF/VBB60qaXXBO4nysUfrhkbbGW6aGIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.API\\UdemyTask.API.csproj",
+  "projectFilePath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.API\\UdemyTask.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\II novbe\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\II novbe\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.25\\microsoft.aspnetcore.cryptography.internal.6.0.25.nupkg.sha512",

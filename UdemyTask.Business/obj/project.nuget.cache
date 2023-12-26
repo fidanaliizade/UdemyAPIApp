@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d6FRhebGfLi2iE0QAswl+cz31QFGfG9amD+36wvY1FYuX4seFCzsE3PIXt9XAaCYfDVr0Fl/FLyn+Q2LSUoItQ==",
+  "dgSpecHash": "FOrMs1OrBBFrmfPVTS5ULXLKLCgXf0iEgrnx+mPniRyb3eLu8S2BBh8AZyoxbE40rO3aYqDRQmZrb02k5U5tOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Business\\UdemyTask.Business.csproj",
+  "projectFilePath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Business\\UdemyTask.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\II novbe\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.25\\microsoft.aspnetcore.cryptography.internal.6.0.25.nupkg.sha512",
     "C:\\Users\\II novbe\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.25\\microsoft.aspnetcore.cryptography.keyderivation.6.0.25.nupkg.sha512",

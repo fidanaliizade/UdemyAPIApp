@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using UdemyTask.Business.DTOs.AccountDtos;
+using UdemyTask.Business.Services.Interfaces;
+using UdemyTask.DAL.Context;
 
 namespace UdemyTask.API.Controllers
 {
@@ -8,17 +10,19 @@ namespace UdemyTask.API.Controllers
 	[ApiController]
 	public class AccountController : ControllerBase
 	{
-		public IActionResult Register()
+		
+		private readonly IRegisterService _service;
+
+		public AccountController(IRegisterService service)
 		{
-			return Ok();
+			_service = service;
 		}
-		[HttpPost]
-		public async Task<IActionResult> Register(RegisterDto registerDto)
+
+		
+        [HttpPost]
+		public async Task<IActionResult> Register([FromForm]RegisterDto registerDto)
 		{
-			if (!ModelState.IsValid)
-			{
-				return Ok();
-			}
+			await _service.Register(registerDto);
 			return Ok();
 		}
 

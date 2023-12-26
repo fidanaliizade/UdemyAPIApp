@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UdemyTask.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de959755a58e845631ed4d1071b2b0d006c7bbae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35a0205c963815471806ca5e252b80def965ffce")]
 [assembly: System.Reflection.AssemblyProductAttribute("UdemyTask.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UdemyTask.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.API\\UdemyTask.API.csproj": {}
+    "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.API\\UdemyTask.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.API\\UdemyTask.API.csproj": {
+    "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.API\\UdemyTask.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.API\\UdemyTask.API.csproj",
+        "projectUniqueName": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.API\\UdemyTask.API.csproj",
         "projectName": "UdemyTask.API",
-        "projectPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.API\\UdemyTask.API.csproj",
+        "projectPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.API\\UdemyTask.API.csproj",
         "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.API\\obj\\",
+        "outputPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\II novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Business\\UdemyTask.Business.csproj": {
-                "projectPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Business\\UdemyTask.Business.csproj"
+              "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Business\\UdemyTask.Business.csproj": {
+                "projectPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Business\\UdemyTask.Business.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Business\\UdemyTask.Business.csproj": {
+    "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Business\\UdemyTask.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Business\\UdemyTask.Business.csproj",
+        "projectUniqueName": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Business\\UdemyTask.Business.csproj",
         "projectName": "UdemyTask.Business",
-        "projectPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Business\\UdemyTask.Business.csproj",
+        "projectPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Business\\UdemyTask.Business.csproj",
         "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Business\\obj\\",
+        "outputPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\II novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -102,8 +102,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.DAL\\UdemyTask.DAL.csproj": {
-                "projectPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.DAL\\UdemyTask.DAL.csproj"
+              "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.DAL\\UdemyTask.DAL.csproj": {
+                "projectPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.DAL\\UdemyTask.DAL.csproj"
               }
             }
           }
@@ -137,14 +137,14 @@
         }
       }
     },
-    "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Core\\UdemyTask.Core.csproj": {
+    "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Core\\UdemyTask.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Core\\UdemyTask.Core.csproj",
+        "projectUniqueName": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Core\\UdemyTask.Core.csproj",
         "projectName": "UdemyTask.Core",
-        "projectPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Core\\UdemyTask.Core.csproj",
+        "projectPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Core\\UdemyTask.Core.csproj",
         "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Core\\obj\\",
+        "outputPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\II novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -212,14 +212,14 @@
         }
       }
     },
-    "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.DAL\\UdemyTask.DAL.csproj": {
+    "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.DAL\\UdemyTask.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.DAL\\UdemyTask.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.DAL\\UdemyTask.DAL.csproj",
         "projectName": "UdemyTask.DAL",
-        "projectPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.DAL\\UdemyTask.DAL.csproj",
+        "projectPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.DAL\\UdemyTask.DAL.csproj",
         "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.DAL\\obj\\",
+        "outputPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\II novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -236,8 +236,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Core\\UdemyTask.Core.csproj": {
-                "projectPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Core\\UdemyTask.Core.csproj"
+              "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Core\\UdemyTask.Core.csproj": {
+                "projectPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Core\\UdemyTask.Core.csproj"
               }
             }
           }

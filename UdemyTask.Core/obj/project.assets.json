@@ -2192,11 +2192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Core\\UdemyTask.Core.csproj",
+      "projectUniqueName": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Core\\UdemyTask.Core.csproj",
       "projectName": "UdemyTask.Core",
-      "projectPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Core\\UdemyTask.Core.csproj",
+      "projectPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Core\\UdemyTask.Core.csproj",
       "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Core\\obj\\",
+      "outputPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\II novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
