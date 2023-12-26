@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UdemyTask.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de959755a58e845631ed4d1071b2b0d006c7bbae")]
 [assembly: System.Reflection.AssemblyProductAttribute("UdemyTask.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UdemyTask.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\owner\\source\\repos\\UdemyTaskAPI\\UdemyTask.Core\\UdemyTask.Core.csproj": {}
+    "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Core\\UdemyTask.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\owner\\source\\repos\\UdemyTaskAPI\\UdemyTask.Core\\UdemyTask.Core.csproj": {
+    "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Core\\UdemyTask.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\owner\\source\\repos\\UdemyTaskAPI\\UdemyTask.Core\\UdemyTask.Core.csproj",
+        "projectUniqueName": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Core\\UdemyTask.Core.csproj",
         "projectName": "UdemyTask.Core",
-        "projectPath": "C:\\Users\\owner\\source\\repos\\UdemyTaskAPI\\UdemyTask.Core\\UdemyTask.Core.csproj",
-        "packagesPath": "C:\\Users\\owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\owner\\source\\repos\\UdemyTaskAPI\\UdemyTask.Core\\obj\\",
+        "projectPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Core\\UdemyTask.Core.csproj",
+        "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPI\\UdemyTask.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\II novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,6 +39,26 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -59,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

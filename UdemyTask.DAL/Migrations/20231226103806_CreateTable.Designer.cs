@@ -12,8 +12,8 @@ using UdemyTask.DAL.Context;
 namespace UdemyTask.DAL.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20231225192431_CreateDbaddTb")]
-    partial class CreateDbaddTb
+    [Migration("20231226103806_CreateTable")]
+    partial class CreateTable
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

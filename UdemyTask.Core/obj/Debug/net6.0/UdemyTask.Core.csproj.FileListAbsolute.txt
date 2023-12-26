@@ -9,3 +9,18 @@ C:\Users\owner\source\repos\UdemyTaskAPI\UdemyTask.Core\obj\Debug\net6.0\UdemyTa
 C:\Users\owner\source\repos\UdemyTaskAPI\UdemyTask.Core\obj\Debug\net6.0\refint\UdemyTask.Core.dll
 C:\Users\owner\source\repos\UdemyTaskAPI\UdemyTask.Core\obj\Debug\net6.0\UdemyTask.Core.pdb
 C:\Users\owner\source\repos\UdemyTaskAPI\UdemyTask.Core\obj\Debug\net6.0\ref\UdemyTask.Core.dll
+C:\Users\II novbe\Source\Repos\UdemyAPI\UdemyTask.Core\bin\Debug\net6.0\UdemyTask.Core.deps.json
+C:\Users\II novbe\Source\Repos\UdemyAPI\UdemyTask.Core\bin\Debug\net6.0\UdemyTask.Core.dll
+C:\Users\II novbe\Source\Repos\UdemyAPI\UdemyTask.Core\bin\Debug\net6.0\UdemyTask.Core.pdb
+C:\Users\II novbe\Source\Repos\UdemyAPI\UdemyTask.Core\obj\Debug\net6.0\UdemyTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Source\Repos\UdemyAPI\UdemyTask.Core\obj\Debug\net6.0\UdemyTask.Core.AssemblyInfoInputs.cache
+C:\Users\II novbe\Source\Repos\UdemyAPI\UdemyTask.Core\obj\Debug\net6.0\UdemyTask.Core.AssemblyInfo.cs
+C:\Users\II novbe\Source\Repos\UdemyAPI\UdemyTask.Core\obj\Debug\net6.0\UdemyTask.Core.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Source\Repos\UdemyAPI\UdemyTask.Core\obj\Debug\net6.0\UdemyTask.Core.sourcelink.json
+C:\Users\II novbe\Source\Repos\UdemyAPI\UdemyTask.Core\obj\Debug\net6.0\UdemyTask.Core.dll
+C:\Users\II novbe\Source\Repos\UdemyAPI\UdemyTask.Core\obj\Debug\net6.0\refint\UdemyTask.Core.dll
+C:\Users\II novbe\Source\Repos\UdemyAPI\UdemyTask.Core\obj\Debug\net6.0\UdemyTask.Core.pdb
+C:\Users\II novbe\Source\Repos\UdemyAPI\UdemyTask.Core\obj\Debug\net6.0\ref\UdemyTask.Core.dll
+C:\Users\II novbe\Source\Repos\UdemyAPI\UdemyTask.Core\bin\Debug\net6.0\UdemyTask.Core.runtimeconfig.json
+C:\Users\II novbe\Source\Repos\UdemyAPI\UdemyTask.Core\obj\Debug\net6.0\UdemyTask.Core.genruntimeconfig.cache
+C:\Users\II novbe\Source\Repos\UdemyAPI\UdemyTask.Core\obj\Debug\net6.0\UdemyTask.Core.csproj.AssemblyReference.cache
