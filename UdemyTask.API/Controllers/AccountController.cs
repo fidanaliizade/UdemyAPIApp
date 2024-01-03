@@ -11,9 +11,9 @@ namespace UdemyTask.API.Controllers
 	public class AccountController : ControllerBase
 	{
 		
-		private readonly IRegisterService _service;
+		private readonly IAccountService _service;
 
-		public AccountController(IRegisterService service)
+		public AccountController(IAccountService service)
 		{
 			_service = service;
 		}
@@ -24,6 +24,13 @@ namespace UdemyTask.API.Controllers
 		{
 			await _service.Register(registerDto);
 			return Ok();
+		}
+
+		[HttpPost("(action)")]
+		public async Task<IActionResult> Login([FromForm] LoginDto loginDto)
+		{
+			var result = await _service.LoginAsync(loginDto);
+			return Ok(result);
 		}
 
 	}

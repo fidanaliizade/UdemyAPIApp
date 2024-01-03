@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Core\\UdemyTask.Core.csproj": {}
+    "C:\\Users\\User\\Desktop\\fidanudemy\\UdemyTask.Core\\UdemyTask.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Core\\UdemyTask.Core.csproj": {
+    "C:\\Users\\User\\Desktop\\fidanudemy\\UdemyTask.Core\\UdemyTask.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Core\\UdemyTask.Core.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\fidanudemy\\UdemyTask.Core\\UdemyTask.Core.csproj",
         "projectName": "UdemyTask.Core",
-        "projectPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Core\\UdemyTask.Core.csproj",
-        "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II novbe\\Source\\Repos\\UdemyAPIApp\\UdemyTask.Core\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\fidanudemy\\UdemyTask.Core\\UdemyTask.Core.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\fidanudemy\\UdemyTask.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\II novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

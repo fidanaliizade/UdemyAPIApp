@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace UdemyTask.Business.DTOs.AccountDtos
 {
-	public class RegisterDto
+	public record RegisterDto
 	{
         public string Name { get; set; }
         public string Surname { get; set; }

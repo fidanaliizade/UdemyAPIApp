@@ -39,3 +39,17 @@ C:\Users\II novbe\Source\Repos\UdemyAPIApp\UdemyTask.Core\obj\Debug\net6.0\refin
 C:\Users\II novbe\Source\Repos\UdemyAPIApp\UdemyTask.Core\obj\Debug\net6.0\UdemyTask.Core.pdb
 C:\Users\II novbe\Source\Repos\UdemyAPIApp\UdemyTask.Core\obj\Debug\net6.0\UdemyTask.Core.genruntimeconfig.cache
 C:\Users\II novbe\Source\Repos\UdemyAPIApp\UdemyTask.Core\obj\Debug\net6.0\ref\UdemyTask.Core.dll
+C:\Users\User\Desktop\fidanudemy\UdemyTask.Core\bin\Debug\net6.0\UdemyTask.Core.deps.json
+C:\Users\User\Desktop\fidanudemy\UdemyTask.Core\bin\Debug\net6.0\UdemyTask.Core.runtimeconfig.json
+C:\Users\User\Desktop\fidanudemy\UdemyTask.Core\bin\Debug\net6.0\UdemyTask.Core.dll
+C:\Users\User\Desktop\fidanudemy\UdemyTask.Core\bin\Debug\net6.0\UdemyTask.Core.pdb
+C:\Users\User\Desktop\fidanudemy\UdemyTask.Core\obj\Debug\net6.0\UdemyTask.Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\fidanudemy\UdemyTask.Core\obj\Debug\net6.0\UdemyTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\fidanudemy\UdemyTask.Core\obj\Debug\net6.0\UdemyTask.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\fidanudemy\UdemyTask.Core\obj\Debug\net6.0\UdemyTask.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\fidanudemy\UdemyTask.Core\obj\Debug\net6.0\UdemyTask.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\fidanudemy\UdemyTask.Core\obj\Debug\net6.0\UdemyTask.Core.dll
+C:\Users\User\Desktop\fidanudemy\UdemyTask.Core\obj\Debug\net6.0\refint\UdemyTask.Core.dll
+C:\Users\User\Desktop\fidanudemy\UdemyTask.Core\obj\Debug\net6.0\UdemyTask.Core.pdb
+C:\Users\User\Desktop\fidanudemy\UdemyTask.Core\obj\Debug\net6.0\UdemyTask.Core.genruntimeconfig.cache
+C:\Users\User\Desktop\fidanudemy\UdemyTask.Core\obj\Debug\net6.0\ref\UdemyTask.Core.dll

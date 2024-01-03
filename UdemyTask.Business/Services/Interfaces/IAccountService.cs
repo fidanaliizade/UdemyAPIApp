@@ -7,8 +7,10 @@ using UdemyTask.Business.DTOs.AccountDtos;
 
 namespace UdemyTask.Business.Services.Interfaces
 {
-	public interface IRegisterService
+	public interface IAccountService
 	{
 		Task Register(RegisterDto registerdto);
+		Task <TokenResponseDto> LoginAsync(LoginDto logindto);
+
 	}
 }

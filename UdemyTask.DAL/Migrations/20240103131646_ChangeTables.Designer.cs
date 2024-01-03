@@ -12,8 +12,8 @@ using UdemyTask.DAL.Context;
 namespace UdemyTask.DAL.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20231226133833_addAppUser")]
-    partial class addAppUser
+    [Migration("20240103131646_ChangeTables")]
+    partial class ChangeTables
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -174,9 +174,6 @@ namespace UdemyTask.DAL.Migrations
                         .HasColumnType("nvarchar(256)");
 
                     b.Property<bool>("EmailConfirmed")
-                        .HasColumnType("bit");
-
-                    b.Property<bool>("IsRemained")
                         .HasColumnType("bit");
 
                     b.Property<bool>("LockoutEnabled")

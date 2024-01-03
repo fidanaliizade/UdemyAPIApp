@@ -8,6 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UdemyTask.Core
-build_property.ProjectDir = C:\Users\II novbe\Source\Repos\UdemyAPIApp\UdemyTask.Core\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = C:\Users\User\Desktop\fidanudemy\UdemyTask.Core\
